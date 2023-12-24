@@ -1,0 +1,5 @@
+string blueprint;
+
+void init(string blueprint) {
+  this.blueprint = blueprint;
+}
